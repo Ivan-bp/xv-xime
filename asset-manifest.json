@@ -1,20 +1,14 @@
 {
   "files": {
     "main.css": "/xv-xime/static/css/main.7dcdce80.css",
-    "main.js": "/xv-xime/static/js/main.d4bb78d5.js",
+    "main.js": "/xv-xime/static/js/main.4751b34c.js",
     "static/js/787.5abbe8cd.chunk.js": "/xv-xime/static/js/787.5abbe8cd.chunk.js",
-    "static/media/letras_3.png": "/xv-xime/static/media/letras_3.d9a098f84c83e4e038cf.png",
     "static/media/letras_4.gif": "/xv-xime/static/media/letras_4.af34136ecf66a98b21bc.gif",
     "static/media/sombrero_1.png": "/xv-xime/static/media/sombrero_1.345e0e047d8dd2d1ebdd.png",
     "static/media/regalos_2.png": "/xv-xime/static/media/regalos_2.cc74cf6d853fbe9e6bcd.png",
-    "static/media/letras_foco.gif": "/xv-xime/static/media/letras_foco.a7c8273763d4bb69f756.gif",
     "static/media/salon_1.png": "/xv-xime/static/media/salon_1.4af62f22297e914a13ed.png",
-    "static/media/fiesta_1.png": "/xv-xime/static/media/fiesta_1.a68a420eca0297bdeb27.png",
-    "static/media/iglesia_2.png": "/xv-xime/static/media/iglesia_2.2dbd21e18ff29b478feb.png",
     "static/media/wl_sw.png": "/xv-xime/static/media/wl_sw.a5838598e622c0c3eae9.png",
     "static/media/salon_2.png": "/xv-xime/static/media/salon_2.73985a3f5dc322b8cae9.png",
-    "static/media/fiesta_2.png": "/xv-xime/static/media/fiesta_2.83c3b6693bb96b9e5402.png",
-    "static/media/letas_1.png": "/xv-xime/static/media/letas_1.120b66859d8b8aa381e1.png",
     "static/media/wl_mochila.png": "/xv-xime/static/media/wl_mochila.2fab7e916134856e3c87.png",
     "static/media/fondo_flores_1.png": "/xv-xime/static/media/fondo_flores_1.5feab54c657ed9ce25d6.png",
     "static/media/wl_bat.png": "/xv-xime/static/media/wl_bat.93cb0169fff7c0a14c6d.png",
@@ -22,7 +16,6 @@
     "static/media/wl_tenis_2.png": "/xv-xime/static/media/wl_tenis_2.6ef6d4643139ab650037.png",
     "static/media/avatar_2.png": "/xv-xime/static/media/avatar_2.925329f6b9f1e9e35133.png",
     "static/media/ubicacion_1.png": "/xv-xime/static/media/ubicacion_1.02f448185d94e5320c7c.png",
-    "static/media/fondo_flores_1.avif": "/xv-xime/static/media/fondo_flores_1.ec0ee0bba78efcba8e28.avif",
     "static/media/wl_puff.png": "/xv-xime/static/media/wl_puff.9aade74d3067f8f95863.png",
     "static/media/wl_tenis.png": "/xv-xime/static/media/wl_tenis.7f7569df755359653eec.png",
     "static/media/GreatVibes-Regular.ttf": "/xv-xime/static/media/GreatVibes-Regular.39c04c4f40f4b2c45bcc.ttf",
@@ -32,15 +25,13 @@
     "static/media/caballo_1.png": "/xv-xime/static/media/caballo_1.f93542fcabc5fc94d9eb.png",
     "static/media/whatsapp.png": "/xv-xime/static/media/whatsapp.9c3b8fcc89e892e48a81.png",
     "static/media/wl_maleta.jpg": "/xv-xime/static/media/wl_maleta.c11ec6083ca40c44b7e0.jpg",
-    "static/media/regalos_1.webp": "/xv-xime/static/media/regalos_1.f52a8fe0c22bf8710cfe.webp",
-    "static/media/maps.png": "/xv-xime/static/media/maps.8a7edde945184da49de1.png",
     "index.html": "/xv-xime/index.html",
     "main.7dcdce80.css.map": "/xv-xime/static/css/main.7dcdce80.css.map",
-    "main.d4bb78d5.js.map": "/xv-xime/static/js/main.d4bb78d5.js.map",
+    "main.4751b34c.js.map": "/xv-xime/static/js/main.4751b34c.js.map",
     "787.5abbe8cd.chunk.js.map": "/xv-xime/static/js/787.5abbe8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcdce80.css",
-    "static/js/main.d4bb78d5.js"
+    "static/js/main.4751b34c.js"
   ]
 }
