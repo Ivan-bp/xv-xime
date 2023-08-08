@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xv-xime/static/css/main.7dcdce80.css",
-    "main.js": "/xv-xime/static/js/main.4751b34c.js",
+    "main.js": "/xv-xime/static/js/main.e4726131.js",
     "static/js/787.5abbe8cd.chunk.js": "/xv-xime/static/js/787.5abbe8cd.chunk.js",
     "static/media/letras_4.gif": "/xv-xime/static/media/letras_4.af34136ecf66a98b21bc.gif",
     "static/media/sombrero_1.png": "/xv-xime/static/media/sombrero_1.345e0e047d8dd2d1ebdd.png",
@@ -14,6 +14,7 @@
     "static/media/wl_bat.png": "/xv-xime/static/media/wl_bat.93cb0169fff7c0a14c6d.png",
     "static/media/iglesia_1.png": "/xv-xime/static/media/iglesia_1.edc67a7bff2b257bcd3d.png",
     "static/media/wl_tenis_2.png": "/xv-xime/static/media/wl_tenis_2.6ef6d4643139ab650037.png",
+    "static/media/wl_sobre.png": "/xv-xime/static/media/wl_sobre.21de60c1fb458f4d0a7e.png",
     "static/media/avatar_2.png": "/xv-xime/static/media/avatar_2.925329f6b9f1e9e35133.png",
     "static/media/ubicacion_1.png": "/xv-xime/static/media/ubicacion_1.02f448185d94e5320c7c.png",
     "static/media/wl_puff.png": "/xv-xime/static/media/wl_puff.9aade74d3067f8f95863.png",
@@ -27,11 +28,11 @@
     "static/media/wl_maleta.jpg": "/xv-xime/static/media/wl_maleta.c11ec6083ca40c44b7e0.jpg",
     "index.html": "/xv-xime/index.html",
     "main.7dcdce80.css.map": "/xv-xime/static/css/main.7dcdce80.css.map",
-    "main.4751b34c.js.map": "/xv-xime/static/js/main.4751b34c.js.map",
+    "main.e4726131.js.map": "/xv-xime/static/js/main.e4726131.js.map",
     "787.5abbe8cd.chunk.js.map": "/xv-xime/static/js/787.5abbe8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcdce80.css",
-    "static/js/main.4751b34c.js"
+    "static/js/main.e4726131.js"
   ]
 }
