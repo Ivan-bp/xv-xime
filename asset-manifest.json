@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/xv-xime/static/css/main.7dcdce80.css",
-    "main.js": "/xv-xime/static/js/main.e4726131.js",
+    "main.js": "/xv-xime/static/js/main.8936b25c.js",
     "static/js/787.5abbe8cd.chunk.js": "/xv-xime/static/js/787.5abbe8cd.chunk.js",
     "static/media/letras_4.gif": "/xv-xime/static/media/letras_4.af34136ecf66a98b21bc.gif",
+    "static/media/wl_ropa.png": "/xv-xime/static/media/wl_ropa.dc9c673e593dad05563d.png",
     "static/media/sombrero_1.png": "/xv-xime/static/media/sombrero_1.345e0e047d8dd2d1ebdd.png",
     "static/media/regalos_2.png": "/xv-xime/static/media/regalos_2.cc74cf6d853fbe9e6bcd.png",
     "static/media/salon_1.png": "/xv-xime/static/media/salon_1.4af62f22297e914a13ed.png",
@@ -28,11 +29,11 @@
     "static/media/wl_maleta.jpg": "/xv-xime/static/media/wl_maleta.c11ec6083ca40c44b7e0.jpg",
     "index.html": "/xv-xime/index.html",
     "main.7dcdce80.css.map": "/xv-xime/static/css/main.7dcdce80.css.map",
-    "main.e4726131.js.map": "/xv-xime/static/js/main.e4726131.js.map",
+    "main.8936b25c.js.map": "/xv-xime/static/js/main.8936b25c.js.map",
     "787.5abbe8cd.chunk.js.map": "/xv-xime/static/js/787.5abbe8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcdce80.css",
-    "static/js/main.e4726131.js"
+    "static/js/main.8936b25c.js"
   ]
 }
