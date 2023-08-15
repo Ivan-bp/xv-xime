@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xv-xime/static/css/main.7dcdce80.css",
-    "main.js": "/xv-xime/static/js/main.8936b25c.js",
+    "main.js": "/xv-xime/static/js/main.a5729fce.js",
     "static/js/787.5abbe8cd.chunk.js": "/xv-xime/static/js/787.5abbe8cd.chunk.js",
     "static/media/letras_4.gif": "/xv-xime/static/media/letras_4.af34136ecf66a98b21bc.gif",
     "static/media/wl_ropa.png": "/xv-xime/static/media/wl_ropa.dc9c673e593dad05563d.png",
@@ -29,11 +29,11 @@
     "static/media/wl_maleta.jpg": "/xv-xime/static/media/wl_maleta.c11ec6083ca40c44b7e0.jpg",
     "index.html": "/xv-xime/index.html",
     "main.7dcdce80.css.map": "/xv-xime/static/css/main.7dcdce80.css.map",
-    "main.8936b25c.js.map": "/xv-xime/static/js/main.8936b25c.js.map",
+    "main.a5729fce.js.map": "/xv-xime/static/js/main.a5729fce.js.map",
     "787.5abbe8cd.chunk.js.map": "/xv-xime/static/js/787.5abbe8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcdce80.css",
-    "static/js/main.8936b25c.js"
+    "static/js/main.a5729fce.js"
   ]
 }
